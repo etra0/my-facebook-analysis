@@ -1,12 +1,25 @@
 # Analisis de mi Facebook
 
+* [Introducción](https://github.com/etrastyle/my-facebook-analysis#Introducción)
+* [Resultados](https://github.com/etrastyle/my-facebook-analysis#Resultados)
+* [Requisitos](https://github.com/etrastyle/my-facebook-analysis#Requisitos)
+* [Instrucciones](https://github.com/etrastyle/my-facebook-analysis#Instrucciones)
+
+# Introducción 
+
 Análisis de datos de mis estados de Facebook hecho totalmente en `python3`.
+
+Actualmente puede generar 4 gráficos:
+* La cantidad de likes por año
+* La cantidad de <3 al año
+* La cantidad de improperios
+* top 20 amigos que dan más likes.
 
 ## Resultados
 
-![swear](https://github.com/etrastyle/my-facebook-analysis/blob/master/out/my_favourite_swear.png)
 ![likes](https://github.com/etrastyle/my-facebook-analysis/blob/master/out/most_liked_year.png)
 ![loved](https://github.com/etrastyle/my-facebook-analysis/blob/master/out/most_loved_year.png)
+![swear](https://github.com/etrastyle/my-facebook-analysis/blob/master/out/my_favourite_swear.png)
 
 ## Requisitos
 

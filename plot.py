@@ -199,7 +199,7 @@ Estados analizados: {total}
 if __name__ == '__main__':
     df = prepare_data('../data.csv')
     generate_fan_csv(df)
-#    friend_most_likes()
-#    most_loved_year(df)
-#    most_liked_year(df)
+    friend_most_likes()
+    most_loved_year(df)
+    most_liked_year(df)
     my_favourite_swear(df)
