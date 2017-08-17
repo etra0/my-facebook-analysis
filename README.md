@@ -38,8 +38,11 @@ para python3.
 2. Activar el virtualenv según las instrucciones
 del sdk de facebook
 
-3. Ejecutar `python3 get_data.py`
+3. Solicitar token en la [Graph API](https://developers.facebook.com/tools/explorer/)
 
-4. Salir del virtualenv escribiendo `deactivate`
+4. Modifivar `get_data.py`, guardando el token en su respectiva variable
+y después ejecutar `python4 get_data.py`
 
-5. Ejecutar `python3 plot.py`
+5. Salir del virtualenv escribiendo `deactivate`
+
+6. Ejecutar `python3 plot.py`
