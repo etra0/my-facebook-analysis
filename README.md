@@ -1,9 +1,9 @@
 # Analisis de mi Facebook
 
-* [Introducción](https://github.com/etrastyle/my-facebook-analysis#Introducción)
-* [Resultados](https://github.com/etrastyle/my-facebook-analysis#Resultados)
-* [Requisitos](https://github.com/etrastyle/my-facebook-analysis#Requisitos)
-* [Instrucciones](https://github.com/etrastyle/my-facebook-analysis#Instrucciones)
+* [Introducción](https://github.com/etrastyle/my-facebook-analysis#introducción)
+* [Resultados](https://github.com/etrastyle/my-facebook-analysis#resultados)
+* [Requisitos](https://github.com/etrastyle/my-facebook-analysis#requisitos)
+* [Instrucciones](https://github.com/etrastyle/my-facebook-analysis#instrucciones)
 
 # Introducción 
 
