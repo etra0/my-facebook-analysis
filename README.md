@@ -40,7 +40,7 @@ del sdk de facebook
 
 3. Solicitar token en la [Graph API](https://developers.facebook.com/tools/explorer/)
 
-4. Modifivar `get_data.py`, guardando el token en su respectiva variable
+4. Modificar `get_data.py`, guardando el token en su respectiva variable
 y después ejecutar `python4 get_data.py`
 
 5. Salir del virtualenv escribiendo `deactivate`
